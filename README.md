@@ -55,12 +55,6 @@ I will be **pushing updates regularly** as I solve problems, build projects, and
 ---
 
 
-
-yaml
-Copy code
-
----
-
 ## 🛠 Tech Stack
 - **Python 3**
 - **NumPy / Pandas**
@@ -83,7 +77,7 @@ Copy code
 
 ## 🤝 Connect with Me
 - GitHub: [AqsaShah02](https://github.com/AqsaShah02)  
-- LinkedIn: *(add your profile link here)*  
+- LinkedIn: *([Aqsa shah](https://www.linkedin.com/in/aqsashah2004/))*  
 
 ---
 
