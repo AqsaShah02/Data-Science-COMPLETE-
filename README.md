@@ -1,4 +1,4 @@
-# 🚀 Data Science COMPLETE Roadmap (Beginner → Expert)
+# 🚀 Data Science COMPLETE Roadmap Hands On (Aqsa Shah)
 
 Welcome to my **Data Science Learning Journey**! 🎓  
 This repository documents my 4-month roadmap to becoming a Data Scientist, following a structured path covering **Python, Mathematics, Statistics, SQL, Machine Learning, and Deep Learning**.  
