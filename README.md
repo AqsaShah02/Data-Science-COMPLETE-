@@ -54,34 +54,7 @@ I will be **pushing updates regularly** as I solve problems, build projects, and
 
 ---
 
-## 🗂 Repo Structure
-📂 Data-Science-COMPLETE-
-┣ 📂 week1-python-basics
-┣ 📂 week2-functions-lists
-┣ 📂 week3-file-handling
-┣ 📂 week4-oops
-┣ 📂 week5-statistics
-┣ 📂 week6-probability
-┣ 📂 week7-hypothesis
-┣ 📂 week8-maths
-┣ 📂 week9-data-cleaning
-┣ 📂 week10-pandas-numpy
-┣ 📂 week11-visualization
-┣ 📂 week12-sql-basics
-┣ 📂 week13-sql-joins
-┣ 📂 week14-advanced-sql
-┣ 📂 week15-ml-linear
-┣ 📂 week16-ml-classification
-┣ 📂 week17-ml-trees
-┣ 📂 week18-ml-svm-naivebayes
-┣ 📂 week19-clustering
-┣ 📂 week20-model-eval
-┣ 📂 week21-ml-project
-┣ 📂 week22-ann
-┣ 📂 week23-cnn
-┣ 📂 week24-rnn
-┣ 📂 week25-capstone
-┗ 📜 README.md
+
 
 yaml
 Copy code
