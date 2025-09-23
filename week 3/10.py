@@ -1,6 +1,4 @@
 # Q10. Handle multiple exceptions in a single try block.
-# q10_multiple_exceptions.py
-
 def process(value_str, divisor, filename):
     """
     - Convert value_str to int

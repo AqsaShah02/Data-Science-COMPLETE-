@@ -1,6 +1,4 @@
 # Q4. Write a program to handle file not found error.
-# q4_file_not_found.py
-
 file_name = "example.txt"
 
 try:

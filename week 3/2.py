@@ -2,5 +2,3 @@
 
 with open("aqsa.txt","w") as f:
     f.write("aqsa ia a good girl")
-
-    

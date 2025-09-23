@@ -1,6 +1,4 @@
 # Q8. Create a program to count lines and words in a file.
-
-
 file_name = r"C:\Users\AQSA SHAH\OneDrive\Desktop\Data science\week 3\sample.txt"
 
 try:
@@ -18,4 +16,3 @@ try:
     print(f"Words: {word_count}")
 except FileNotFoundError:
     print(f"Error: '{file_name}' not found.")
-

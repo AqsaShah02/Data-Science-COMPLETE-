@@ -1,5 +1,4 @@
-# q6_list_comprehension.py
-
+# Q6. Use a list comprehension to filter even numbers from a list.
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 # List comprehension: keep x if x % 2 == 0

@@ -18,4 +18,3 @@ except FileNotFoundError:
 # df = pd.read_csv("data.csv")
 # print(df)        # pretty tabular print
 # print(df.to_dict(orient="records"))  # list of rows as dicts
-

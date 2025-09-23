@@ -1,3 +1,4 @@
+# Q1. Write a Python script to read a file and print its contents.
 # Q1: Read a file and print its contents
 
 file_name = r"C:\Users\AQSA SHAH\OneDrive\Desktop\Data science\week 3\sample.txt"
