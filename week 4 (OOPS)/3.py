@@ -6,7 +6,9 @@ def char_freq(s):
         freq[char] = freq.get(char,0)+1
     return freq
         
-
+# Example
+string = "mississippi"
+print("Character frequencies:", char_freq(string))
 # Explanation:
 
 # We need to count how many times each character occurs in a string.
