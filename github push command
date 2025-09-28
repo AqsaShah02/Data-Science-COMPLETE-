@@ -1,3 +1,3 @@
 git add .
-git commit -m "completed week 4 q1 to q5"
+git commit -m "solved question on class object attributes methods and its types"
 git push
